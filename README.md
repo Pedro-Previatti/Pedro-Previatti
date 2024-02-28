@@ -23,4 +23,4 @@ Contact me
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
 
 ### - Stats ⚡️
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Previatti&text_color=36BCF7FF&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pedro-Previatti&theme=dracula&text_color=36BCF7FF&hide_border=true" alt="GitHub Streak" /></a>

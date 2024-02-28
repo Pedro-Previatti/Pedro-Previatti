@@ -1,6 +1,14 @@
 # Pedro Previatti 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&height=30&lines=Backend+Developer;Still+got+lots+to+learn.)](https://git.io/typing-svg)
+
 I'm a software engeneering student and i LOVE to code. Currently learning `C#` and `.NET`. 
+
+Contact me 
+<p align="center">
+  <a href="mailto:pvlpreviatti@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+  <a target="_blank" href="https://linkedin.com/in/Pedro-Previatti"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+</p>
+
 
 ### 🧰 Languages and Tools
 

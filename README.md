@@ -1,7 +1,7 @@
 # Pedro Previatti
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer;Still+got+lots+to+learn.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer;Still+got+lots+to+learn.)](https://git.io/typing-svg)
 
-I'm a software engeneering student and i LOVE to code. I'm currently learning `C#` and `.NET`. 
+I'm a software engeneering student and i LOVE to code. Currently learning `C#` and `.NET`. 
 
 ### 🧰 Languages and Tools
 

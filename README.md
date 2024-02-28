@@ -4,9 +4,9 @@
 I'm a software engeneering student and i LOVE to code. Currently learning `C#` and `.NET`. 
 
 Contact me 
-<p align="center">
+<p align="left">
   <a href="mailto:pvlpreviatti@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://linkedin.com/in/Pedro-Previatti"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/pedropreviatti/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
 </p>
 
 

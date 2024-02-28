@@ -1,9 +1,13 @@
-<h1 font-family="Lucida Console;" font-color="#0802a3;" >Pedro Previatti</h1>
-
+# Pedro Previatti
 <h2>
   <!-- Typing SVG by DenverCoding - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=14&pause=1000&color=0802a3&random=false&width=435&lines=Backend+Developer;Currently+Learning;Practicing+Everyday" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&pause=1000&color=0802a3&random=false&width=435&lines=Backend+Developer;Currently+Learning;Practicing+Everyday" alt="Typing SVG" /></a>
 </h2>
+
+<p>
+  I'm a software engeneering student with 
+</p>
+
 
 ### 🧰 Languages and Tools
 

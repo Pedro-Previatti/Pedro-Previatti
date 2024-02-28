@@ -23,10 +23,4 @@ Contact me
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
 
 ### - Stats ⚡️
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Pedro-Previatti&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=36BCF7FF&bg_color=0000&hide_border=true&custom_title=Pedro%27s%20Github%20Stats" alt="My Stats"/></a></td>
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pedro-Previatti&theme=dracula&text_color=36BCF7FF&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
-  </tr>
-</table>
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Previatti&text_color=36BCF7FF&theme=dark&hide_border=true)](https://git.io/streak-stats)

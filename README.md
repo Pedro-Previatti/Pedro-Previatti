@@ -1,12 +1,7 @@
 # Pedro Previatti
-<h2>
-  <!-- Typing SVG by DenverCoding - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&pause=1000&color=0802a3&random=false&width=435&lines=Backend+Developer;Currently+Learning;Practicing+Everyday" alt="Typing SVG" /></a>
-</h2>
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer;Still+got+lots+to+learn.)](https://git.io/typing-svg)
 
-<p>
-  I'm a software engeneering student with 
-</p>
+I'm a software engeneering student.
 
 
 ### 🧰 Languages and Tools

@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
   <!-- Typing SVG by DenverCoding - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=15&pause=1000&color=0802A3&repeat=false&random=false&width=435&lines=Pedro+Previatti" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&pause=1000&color=0802A3&repeat=false&random=false&width=435&lines=Pedro+Previatti" alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoding - https://github.com/DenverCoder1/readme-typing-svg -->

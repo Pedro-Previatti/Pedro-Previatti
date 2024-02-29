@@ -22,7 +22,7 @@ Contact me
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
 
-
+<br>
 ### - Stats ⚡️
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Previatti&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)

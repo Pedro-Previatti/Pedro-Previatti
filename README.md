@@ -35,5 +35,3 @@ Contact me
 ### - Stats ⚡️
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Previatti&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pedro-Previatti)](https://git.io/streak-stats)
-

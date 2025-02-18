@@ -3,8 +3,7 @@
 
 Software Engineering student in the final stretch of college, currently working as a backend developer specializing in `C#` and `.NET`. Passionate about building efficient and scalable solutions, constantly learning to enhance my skills in modern development practices.
 
-Contact me
-
+### Contact me
 [![E-mail](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg)](mailto:pvlpreviatti@gmail.com) [![Linkedin](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg)](https://www.linkedin.com/in/pedropreviatti/)
 
 ### Skills

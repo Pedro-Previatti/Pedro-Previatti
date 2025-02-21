@@ -8,6 +8,3 @@ Software Engineering student in the final stretch of college, currently working 
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,cs,dotnet,go,py,flask,fastapi,java,spring,docker,mysql,postgres,postman)](https://skillicons.dev)
-
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Previatti&theme=gotham&hide_border=true)](https://git.io/streak-stats)
